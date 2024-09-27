@@ -8,7 +8,6 @@ public class Applicacion {
 
 		
 		
-		System.getProperty(null);
 	}
 
 }
