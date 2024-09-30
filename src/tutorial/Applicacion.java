@@ -11,6 +11,7 @@ public class Applicacion {
 		System.out.println("Hemos unido master y la branch1");
 		System.out.println("Nueva branch 3 con commit 6 y nuevo README con una flor");
 		System.out.println("Nuevo commit en la branch 3");
+		System.out.println("Uniendo rama 3 y master");
 	}
 
 }
